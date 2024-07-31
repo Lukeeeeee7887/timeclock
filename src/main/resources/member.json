@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "balance": 1200.50,
+        "birthDate": "1990-01-15",
+        "status": 1
+    },
+    {
+        "id": 2,
+        "name": "Bob Brown",
+        "email": "bob.brown@example.com",
+        "balance": 800.75,
+        "birthDate": "1985-05-22",
+        "status": 0
+    },
+    {
+        "id": 3,
+        "name": "Charlie Davis",
+        "email": "charlie.davis@example.com",
+        "balance": 1500.00,
+        "birthDate": "1992-08-30",
+        "status": 1
+    },
+    {
+        "id": 4,
+        "name": "Diana Evans",
+        "email": "diana.evans@example.com",
+        "balance": 900.40,
+        "birthDate": "1988-12-12",
+        "status": 1
+    },
+    {
+        "id": 5,
+        "name": "Edward Foster",
+        "email": "edward.foster@example.com",
+        "balance": 600.60,
+        "birthDate": "1991-07-07",
+        "status": 0
+    },
+    {
+        "id": 6,
+        "name": "Fiona Green",
+        "email": "fiona.green@example.com",
+        "balance": 1100.30,
+        "birthDate": "1993-03-17",
+        "status": 1
+    },
+    {
+        "id": 7,
+        "name": "George Harris",
+        "email": "george.harris@example.com",
+        "balance": 750.25,
+        "birthDate": "1987-06-25",
+        "status": 0
+    },
+    {
+        "id": 8,
+        "name": "Hannah Ives",
+        "email": "hannah.ives@example.com",
+        "balance": 980.80,
+        "birthDate": "1994-11-10",
+        "status": 1
+    },
+    {
+        "id": 9,
+        "name": "Ian James",
+        "email": "ian.james@example.com",
+        "balance": 670.90,
+        "birthDate": "1989-04-14",
+        "status": 0
+    },
+    {
+        "id": 10,
+        "name": "Julia King",
+        "email": "julia.king@example.com",
+        "balance": 850.25,
+        "birthDate": "1992-02-28",
+        "status": 1
+    },
+    {
+        "id": 11,
+        "name": "Kevin Lewis",
+        "email": "kevin.lewis@example.com",
+        "balance": 950.00,
+        "birthDate": "1986-09-08",
+        "status": 1
+    },
+    {
+        "id": 12,
+        "name": "Laura Martin",
+        "email": "laura.martin@example.com",
+        "balance": 1200.20,
+        "birthDate": "1988-05-25",
+        "status": 0
+    },
+    {
+        "id": 13,
+        "name": "Michael Nelson",
+        "email": "michael.nelson@example.com",
+        "balance": 1050.60,
+        "birthDate": "1990-01-01",
+        "status": 1
+    },
+    {
+        "id": 14,
+        "name": "Nora O'Brien",
+        "email": "nora.obrien@example.com",
+        "balance": 900.00,
+        "birthDate": "1993-07-14",
+        "status": 0
+    },
+    {
+        "id": 15,
+        "name": "Oliver Peterson",
+        "email": "oliver.peterson@example.com",
+        "balance": 780.45,
+        "birthDate": "1987-10-19",
+        "status": 1
+    },
+    {
+        "id": 16,
+        "name": "Pamela Quinn",
+        "email": "pamela.quinn@example.com",
+        "balance": 600.90,
+        "birthDate": "1991-06-01",
+        "status": 0
+    },
+    {
+        "id": 17,
+        "name": "Quinn Roberts",
+        "email": "quinn.roberts@example.com",
+        "balance": 1150.75,
+        "birthDate": "1989-04-20",
+        "status": 1
+    },
+    {
+        "id": 18,
+        "name": "Rachel Smith",
+        "email": "rachel.smith@example.com",
+        "balance": 700.55,
+        "birthDate": "1992-09-14",
+        "status": 0
+    },
+    {
+        "id": 19,
+        "name": "Samuel Turner",
+        "email": "samuel.turner@example.com",
+        "balance": 1300.80,
+        "birthDate": "1985-11-23",
+        "status": 1
+    },
+    {
+        "id": 20,
+        "name": "Tina Underwood",
+        "email": "tina.underwood@example.com",
+        "balance": 850.10,
+        "birthDate": "1989-02-12",
+        "status": 1
+    }
+]
